@@ -1,0 +1,725 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -39.06370558024186,
+                    -16.449929979039123
+                ]
+            },
+            "properties": {
+                "id": 0,
+                "name": "Ponto_0",
+                "latitude": -16.449929979039123,
+                "longitude": -39.06370558024186
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -39.274430633576046,
+                    -14.790166525779417
+                ]
+            },
+            "properties": {
+                "id": 1,
+                "name": "Ponto_1",
+                "latitude": -14.790166525779417,
+                "longitude": -39.274430633576046
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -39.53473547519859,
+                    -17.03247382386322
+                ]
+            },
+            "properties": {
+                "id": 2,
+                "name": "Ponto_2",
+                "latitude": -17.03247382386322,
+                "longitude": -39.53473547519859
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -39.5868179,
+                    -16.3748116
+                ]
+            },
+            "properties": {
+                "id": 3,
+                "name": "Ponto_3",
+                "latitude": -16.3748116,
+                "longitude": -39.5868179
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -39.742335900000626,
+                    -17.536132933953706
+                ]
+            },
+            "properties": {
+                "id": 4,
+                "name": "Ponto_4",
+                "latitude": -17.536132933953706,
+                "longitude": -39.742335900000626
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -39.857529372888806,
+                    -18.716786196750252
+                ]
+            },
+            "properties": {
+                "id": 5,
+                "name": "Ponto_5",
+                "latitude": -18.716786196750252,
+                "longitude": -39.857529372888806
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -40.0638452,
+                    -19.3556553
+                ]
+            },
+            "properties": {
+                "id": 6,
+                "name": "Ponto_6",
+                "latitude": -19.3556553,
+                "longitude": -40.0638452
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -40.06540448711957,
+                    -19.40068146001876
+                ]
+            },
+            "properties": {
+                "id": 7,
+                "name": "Ponto_7",
+                "latitude": -19.40068146001876,
+                "longitude": -40.06540448711957
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -40.186281596755975,
+                    -20.151473062203525
+                ]
+            },
+            "properties": {
+                "id": 8,
+                "name": "Ponto_8",
+                "latitude": -20.151473062203525,
+                "longitude": -40.186281596755975
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -40.249210593376134,
+                    -20.19770061634487
+                ]
+            },
+            "properties": {
+                "id": 9,
+                "name": "Ponto_9",
+                "latitude": -20.19770061634487,
+                "longitude": -40.249210593376134
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -40.25284732026359,
+                    -20.15475860146747
+                ]
+            },
+            "properties": {
+                "id": 10,
+                "name": "Ponto_10",
+                "latitude": -20.15475860146747,
+                "longitude": -40.25284732026359
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -40.25486428394805,
+                    -20.199100715884345
+                ]
+            },
+            "properties": {
+                "id": 11,
+                "name": "Ponto_11",
+                "latitude": -20.199100715884345,
+                "longitude": -40.25486428394805
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -40.275190089744015,
+                    -20.239746836134312
+                ]
+            },
+            "properties": {
+                "id": 12,
+                "name": "Ponto_12",
+                "latitude": -20.239746836134312,
+                "longitude": -40.275190089744015
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -40.276513250922484,
+                    -19.824354437228706
+                ]
+            },
+            "properties": {
+                "id": 13,
+                "name": "Ponto_13",
+                "latitude": -19.824354437228706,
+                "longitude": -40.276513250922484
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -40.294165295405655,
+                    -20.334710732912654
+                ]
+            },
+            "properties": {
+                "id": 14,
+                "name": "Ponto_14",
+                "latitude": -20.334710732912654,
+                "longitude": -40.294165295405655
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -40.29811401514788,
+                    -20.26698712535185
+                ]
+            },
+            "properties": {
+                "id": 15,
+                "name": "Ponto_15",
+                "latitude": -20.26698712535185,
+                "longitude": -40.29811401514788
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -40.298567514926475,
+                    -20.351683162906877
+                ]
+            },
+            "properties": {
+                "id": 16,
+                "name": "Ponto_16",
+                "latitude": -20.351683162906877,
+                "longitude": -40.298567514926475
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -40.30666637190885,
+                    -20.339640189197073
+                ]
+            },
+            "properties": {
+                "id": 17,
+                "name": "Ponto_17",
+                "latitude": -20.339640189197073,
+                "longitude": -40.30666637190885
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -40.30740485216014,
+                    -20.125602804419135
+                ]
+            },
+            "properties": {
+                "id": 18,
+                "name": "Ponto_18",
+                "latitude": -20.125602804419135,
+                "longitude": -40.30740485216014
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -40.310401916503906,
+                    -20.3674373626709
+                ]
+            },
+            "properties": {
+                "id": 19,
+                "name": "Ponto_19",
+                "latitude": -20.3674373626709,
+                "longitude": -40.310401916503906
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -40.31853413898875,
+                    -20.392018036553985
+                ]
+            },
+            "properties": {
+                "id": 20,
+                "name": "Ponto_20",
+                "latitude": -20.392018036553985,
+                "longitude": -40.31853413898875
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -40.33010066154986,
+                    -20.31982425732467
+                ]
+            },
+            "properties": {
+                "id": 21,
+                "name": "Ponto_21",
+                "latitude": -20.31982425732467,
+                "longitude": -40.33010066154986
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -40.33443822380528,
+                    -20.28172257435406
+                ]
+            },
+            "properties": {
+                "id": 22,
+                "name": "Ponto_22",
+                "latitude": -20.28172257435406,
+                "longitude": -40.33443822380528
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -40.33812138145106,
+                    -20.329475798045234
+                ]
+            },
+            "properties": {
+                "id": 23,
+                "name": "Ponto_23",
+                "latitude": -20.329475798045234,
+                "longitude": -40.33812138145106
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -40.34543209427082,
+                    -20.321032441262183
+                ]
+            },
+            "properties": {
+                "id": 24,
+                "name": "Ponto_24",
+                "latitude": -20.321032441262183,
+                "longitude": -40.34543209427082
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -40.36812362719647,
+                    -20.35262611605099
+                ]
+            },
+            "properties": {
+                "id": 25,
+                "name": "Ponto_25",
+                "latitude": -20.35262611605099,
+                "longitude": -40.36812362719647
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -40.37825177664126,
+                    -20.32156127048211
+                ]
+            },
+            "properties": {
+                "id": 26,
+                "name": "Ponto_26",
+                "latitude": -20.32156127048211,
+                "longitude": -40.37825177664126
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -40.38453842738988,
+                    -20.34262379004487
+                ]
+            },
+            "properties": {
+                "id": 27,
+                "name": "Ponto_27",
+                "latitude": -20.34262379004487,
+                "longitude": -40.38453842738988
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -40.384864807128906,
+                    -20.3427734375
+                ]
+            },
+            "properties": {
+                "id": 28,
+                "name": "Ponto_28",
+                "latitude": -20.3427734375,
+                "longitude": -40.384864807128906
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -40.39786707605579,
+                    -18.711194095806913
+                ]
+            },
+            "properties": {
+                "id": 29,
+                "name": "Ponto_29",
+                "latitude": -18.711194095806913,
+                "longitude": -40.39786707605579
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -40.39977109279308,
+                    -20.34429953527301
+                ]
+            },
+            "properties": {
+                "id": 30,
+                "name": "Ponto_30",
+                "latitude": -20.34429953527301,
+                "longitude": -40.39977109279308
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -40.49706878213792,
+                    -20.658813148652413
+                ]
+            },
+            "properties": {
+                "id": 31,
+                "name": "Ponto_31",
+                "latitude": -20.658813148652413,
+                "longitude": -40.49706878213792
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -40.53686371911049,
+                    -19.017419863824436
+                ]
+            },
+            "properties": {
+                "id": 32,
+                "name": "Ponto_32",
+                "latitude": -19.017419863824436,
+                "longitude": -40.53686371911049
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -40.6278193199305,
+                    -19.53507882363122
+                ]
+            },
+            "properties": {
+                "id": 33,
+                "name": "Ponto_33",
+                "latitude": -19.53507882363122,
+                "longitude": -40.6278193199305
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -40.64999901301033,
+                    -20.80603910350611
+                ]
+            },
+            "properties": {
+                "id": 34,
+                "name": "Ponto_34",
+                "latitude": -20.80603910350611,
+                "longitude": -40.64999901301033
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -40.67390666643636,
+                    -20.410236145489673
+                ]
+            },
+            "properties": {
+                "id": 35,
+                "name": "Ponto_35",
+                "latitude": -20.410236145489673,
+                "longitude": -40.67390666643636
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -40.742646030688114,
+                    -20.02670249203532
+                ]
+            },
+            "properties": {
+                "id": 36,
+                "name": "Ponto_36",
+                "latitude": -20.02670249203532,
+                "longitude": -40.742646030688114
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -40.81699782757707,
+                    -21.026728968489277
+                ]
+            },
+            "properties": {
+                "id": 37,
+                "name": "Ponto_37",
+                "latitude": -21.026728968489277,
+                "longitude": -40.81699782757707
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -40.84123261757395,
+                    -14.853551441703825
+                ]
+            },
+            "properties": {
+                "id": 38,
+                "name": "Ponto_38",
+                "latitude": -14.853551441703825,
+                "longitude": -40.84123261757395
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -40.84468973552183,
+                    -14.89298565252701
+                ]
+            },
+            "properties": {
+                "id": 39,
+                "name": "Ponto_39",
+                "latitude": -14.89298565252701,
+                "longitude": -40.84468973552183
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -40.89208924118901,
+                    -18.756603668281326
+                ]
+            },
+            "properties": {
+                "id": 40,
+                "name": "Ponto_40",
+                "latitude": -18.756603668281326,
+                "longitude": -40.89208924118901
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -41.01214106283925,
+                    -19.514453456614202
+                ]
+            },
+            "properties": {
+                "id": 41,
+                "name": "Ponto_41",
+                "latitude": -19.514453456614202,
+                "longitude": -41.01214106283925
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -41.118063636609044,
+                    -20.847946781160495
+                ]
+            },
+            "properties": {
+                "id": 42,
+                "name": "Ponto_42",
+                "latitude": -20.847946781160495,
+                "longitude": -41.118063636609044
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -41.1560771055743,
+                    -20.843698419624094
+                ]
+            },
+            "properties": {
+                "id": 43,
+                "name": "Ponto_43",
+                "latitude": -20.843698419624094,
+                "longitude": -41.1560771055743
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -41.20282161050257,
+                    -20.602238490333345
+                ]
+            },
+            "properties": {
+                "id": 44,
+                "name": "Ponto_44",
+                "latitude": -20.602238490333345,
+                "longitude": -41.20282161050257
+            }
+        }
+    ]
+}
